@@ -1,9 +1,9 @@
-# calculator-for-mean-variance-and-standard-deviation-in-python
+## I entered for prompt user:
 I entered for prompt user:
-Enter a Number: 1
-Enter a Number: 2
-Enter a Number: 3
-Enter a Number: Exit
+* Enter a Number: 1
+* Enter a Number: 2
+* Enter a Number: 3
+* Enter a Number: Exit
 output:
 Total observation: 3
 average: 2.0
